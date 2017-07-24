@@ -1,0 +1,6 @@
+C:\Users\NikodemasŽaliauskas\Desktop\DanskeTask\DanskeTask\DanskeTask\bin\Debug\DanskeTask.exe.config
+C:\Users\NikodemasŽaliauskas\Desktop\DanskeTask\DanskeTask\DanskeTask\bin\Debug\DanskeTask.exe
+C:\Users\NikodemasŽaliauskas\Desktop\DanskeTask\DanskeTask\DanskeTask\bin\Debug\DanskeTask.pdb
+C:\Users\NikodemasŽaliauskas\Desktop\DanskeTask\DanskeTask\DanskeTask\obj\Debug\DanskeTask.csprojResolveAssemblyReference.cache
+C:\Users\NikodemasŽaliauskas\Desktop\DanskeTask\DanskeTask\DanskeTask\obj\Debug\DanskeTask.exe
+C:\Users\NikodemasŽaliauskas\Desktop\DanskeTask\DanskeTask\DanskeTask\obj\Debug\DanskeTask.pdb
